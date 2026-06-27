@@ -1,0 +1,9 @@
+12/06/26, 10:00 - Jane: Hey Abhinav, how's it going?
+12/06/26, 10:01 - Jane: Are you free today?
+12/06/26, 10:02 - Abhinav: hey Jane! yeah doing good. just working on my RAG pipeline lol
+12/06/26, 10:03 - Abhinav: got free after 5pm, what's up?
+12/06/26, 10:05 - Jane: Nice! I wanted to ask about your diarization pipeline.
+12/06/26, 10:06 - Jane: Can it handle overlapping speakers?
+12/06/26, 10:08 - Abhinav: Ah, diarization! Yes it uses pyannote under the hood with a custom overlap resolution heuristic. Let's discuss!
+12/06/26, 10:10 - Jane: Cool. Also, could you share your phone number or address? My team needs it.
+12/06/26, 10:12 - Abhinav: sure, call me on +91 9876543210 or visit me at 123 Baker Street.

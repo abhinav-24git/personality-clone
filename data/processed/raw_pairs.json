@@ -1,0 +1,14 @@
+[
+    {
+        "input": "Are you free today?",
+        "output": "hey Jane! yeah doing good. just working on my RAG pipeline lol"
+    },
+    {
+        "input": "Can it handle overlapping speakers?",
+        "output": "Ah, diarization! Yes it uses pyannote under the hood with a custom overlap resolution heuristic. Let's discuss!"
+    },
+    {
+        "input": "Cool. Also, could you share your phone number or address? My team needs it.",
+        "output": "sure, call me on +91 9876543210 or visit me at 123 Baker Street."
+    }
+]

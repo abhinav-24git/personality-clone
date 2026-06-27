@@ -1,0 +1,18 @@
+# Core Server
+fastapi>=0.95.0
+uvicorn>=0.20.0
+pydantic>=2.0
+requests>=2.28.0
+
+# Vector Database & Embeddings
+sentence-transformers>=2.2.0
+chromadb>=0.4.0
+numpy>=1.20.0
+
+# optional: Local LLM / PEFT Loading (Only required if running 'local' mode LLM pipeline instead of 'mock' or 'hf_api')
+# torch>=2.0.0
+# transformers>=4.31.0
+# peft>=0.4.0
+# accelerate>=0.20.0
+# bitsandbytes>=0.39.0
+# datasets>=2.12.0
